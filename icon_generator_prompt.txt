@@ -1,0 +1,15 @@
+Create a minimalist app icon for "Calm Night" - a sleep and relaxation app.
+
+Style:
+- Clean, modern design with a dark blue/purple night sky gradient
+- Simple silhouette of a crescent moon or stars
+- Rounded corners for an adaptive icon
+- Calming, serene feel that suggests rest and tranquility
+- Minimal details to ensure clarity at small sizes
+
+Technical requirements:
+- Primary icon size: 108dp x 108dp
+- Foreground element should be centered with proper padding
+- Background color: white (#FFFFFF) as per existing configuration
+- Compatible with Android adaptive icon system (foreground/background layers)
+- Ensure the design works well on both square and circular masks
